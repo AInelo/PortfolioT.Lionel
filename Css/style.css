@@ -640,6 +640,7 @@ span{
         left: 65%;
         /* styles pour le deuxième div */
     }
+   
     /* POUR LE CUBE */
 
     .pourcube {
@@ -727,6 +728,7 @@ span{
         }
     }
       
+    
     #menu-icon {
         display: block;
     }
